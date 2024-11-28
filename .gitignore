@@ -1,2 +1,13 @@
 ADMISSIONS_COPY.csv
 .env 
+2_subdomains.csv
+state_county_zip.json
+patients.csv
+ADMISSIONS_SYNTHETIC.csv 
+NOTEEVENTS.csv
+Patients_Admissions_COI.csv
+Patients_Admissions.csv
+prelabeled_notes.csv
+Relevant_NOTEEVENTS.csv
+sampled_notes_for_labeling.csv
+low counties.txt
